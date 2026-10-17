@@ -104,41 +104,6 @@ Practico combinando **Hack The Box** con **laboratorios propios** que armo con C
 
 ## 🚀 Proyectos destacados
 
-### Seguridad y laboratorios
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/NiettoFrann/helix-corporation">helix-corporation</a></h4>
-      <p>Laboratorios de ciberseguridad en Docker: explotación y escalada de privilegios, envueltos en el universo narrativo de HELIX Corp, una megacorp ficticia filtrada por La Mano Negra.</p>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Pentesting-740EE0?style=flat-square" alt="Pentesting" />
-      <img src="https://img.shields.io/badge/CTF_Labs-740EE0?style=flat-square" alt="CTF Labs" />
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/NiettoFrann/python-tools">python-tools</a></h4>
-      <p>Set de utilidades CLI en Python para automatizar problemas cotidianos, con foco en código limpio y modular.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/CLI-740EE0?style=flat-square" alt="CLI" />
-      <img src="https://img.shields.io/badge/Automation-740EE0?style=flat-square" alt="Automation" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/NiettoFrann/linux-knowledge-base">linux-knowledge-base</a></h4>
-      <p>Notas, ejercicios y scripts de Bash sobre fundamentos de Linux, automatización, redes y ciberseguridad.</p>
-      <img src="https://img.shields.io/badge/Shell-89E051?style=flat-square&logo=gnubash&logoColor=black" alt="Shell" />
-      <img src="https://img.shields.io/badge/Knowledge_Base-740EE0?style=flat-square" alt="Knowledge Base" />
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/NiettoFrann/python-knowledge-base">python-knowledge-base</a></h4>
-      <p>Apuntes, ejercicios y proyectos de Python: POO, manejo de archivos, redes, concurrencia y ciberseguridad.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Knowledge_Base-740EE0?style=flat-square" alt="Knowledge Base" />
-    </td>
-  </tr>
-</table>
-
 ### Desarrollo web
 
 <table>
