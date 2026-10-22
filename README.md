@@ -43,8 +43,7 @@ Vengo del desarrollo: trabajé **más de 2 años como desarrollador web en la Mu
 <br/><br/>
 Informes de pentest <b>en español</b> sobre máquinas de Hack The Box, con formato profesional: resumen ejecutivo, narrativa del ataque, hallazgos con <b>CVSS</b> y remediación.
 <br/><br/>
-<img src="https://img.shields.io/badge/MkDocs-526CFE?style=flat-square&logo=materialformkdocs&logoColor=white" alt="MkDocs"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
 <br/><br/>
 </td>
