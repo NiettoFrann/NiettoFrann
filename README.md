@@ -1,148 +1,112 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:740EE0,100:D61C4E&height=200&section=header&text=Valent%C3%ADn%20Francisco%20Nieto&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Cybersecurity%20Student%20%E2%80%A2%20Backend%20Developer&descSize=18&descAlignY=56&animation=fadeIn" alt="Valentín Francisco Nieto" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/NiettoFrann">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=D61C4E&center=true&vCenter=true&width=620&lines=Estudiante+de+Seguridad+Inform%C3%A1tica;Pentesting+web+%7C+OWASP+Top+10;Automatizando+seguridad+con+Python;Camino+a+la+certificaci%C3%B3n+eJPT;Background%3A+Backend+con+PHP+%26+Laravel" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:740EE0,100:D61C4E&height=200&section=header&text=Valent%C3%ADn%20Francisco%20Nieto&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Pentesting%20web%20%E2%80%A2%20Ex%20backend%20dev%20(Laravel)&descSize=18&descAlignY=56&animation=fadeIn" alt="Valentín Francisco Nieto" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/niettovale"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A2E" alt="LinkedIn" /></a>
-  <a href="https://ntech.studio"><img src="https://img.shields.io/badge/Portfolio-ntech.studio-740EE0?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1A1A2E" alt="Portfolio" /></a>
-  <a href="https://github.com/NiettoFrann?tab=followers"><img src="https://img.shields.io/github/followers/NiettoFrann?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=740EE0&labelColor=1A1A2E" alt="GitHub followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=NiettoFrann&style=for-the-badge&color=D61C4E&label=VISITAS&labelColor=1A1A2E" alt="Profile views" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=D61C4E&center=true&vCenter=true&width=620&lines=Estudiante+de+Seguridad+Inform%C3%A1tica;Pentesting+web+%7C+OWASP+Top+10;Write-ups+de+Hack+The+Box+en+espa%C3%B1ol" alt="Typing SVG"/>
 
-<p align="center">
-  <b><i>"No te rindas aunque caigas o estés perdiendo, nunca te rindas, supera tus límites y te abrirás camino."</i></b>
-  <br />
-  <sub>— Yami Sukehiro</sub>
-</p>
+<br/>
+
+<a href="https://www.linkedin.com/in/niettovale"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A2E" alt="LinkedIn"/></a>
+<a href="https://ntech.studio"><img src="https://img.shields.io/badge/Portfolio-ntech.studio-740EE0?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1A1A2E" alt="Portfolio"/></a>
+<a href="https://github.com/NiettoFrann/hacker-odyssey"><img src="https://img.shields.io/badge/Write--ups-hacker--odyssey-D61C4E?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=1A1A2E" alt="Write-ups"/></a>
+
+<!-- Badge de HTB: reemplazá TU_ID por tu ID de Hack The Box y descomentá la línea
+<a href="https://app.hackthebox.com/profile/TU_ID"><img src="https://img.shields.io/badge/Hack_The_Box-Perfil-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=1A1A2E" alt="Hack The Box"/></a>
+-->
+
+</div>
 
 ---
 
 ## 👋 Sobre mí
 
-Soy estudiante de **3er año de la Licenciatura en Seguridad Informática** y me estoy especializando en **pentesting web**, con foco en las vulnerabilidades del **OWASP Top 10** (SQL Injection, XSS, control de acceso roto y compañía).
+Estudiante de **3er año de la Licenciatura en Seguridad Informática**, especializándome en **pentesting web** (OWASP Top 10: SQLi, XSS, control de acceso roto y compañía).
 
-Vengo del desarrollo: trabajé **2 años como desarrollador backend con Laravel**. Un día me pregunté cómo funcionaban las cosas por detrás... y terminé apasionado por la seguridad. Conocí **Hack The Box** en el _Taller CiberX_ de la facultad y desde ahí no paré.
+Vengo del desarrollo: trabajé **más de 2 años como desarrollador web en la Municipalidad de Salsipuedes**, haciendo sistemas internos con **Laravel y MySQL** y dando una mano en soporte técnico y redes. Un día me pregunté cómo se rompía lo que yo mismo construía… y terminé en la seguridad. Conocí **Hack The Box** en el *Taller CiberX* de la facultad y desde ahí no paré.
 
-Practico combinando **Hack The Box** con **laboratorios propios** que armo con Claude Code para entrenar técnicas puntuales. Y ahora que entiendo cómo se rompe una aplicación, aplico seguridad desde las bases en todo lo que programo.
+> **🔎 Busco trabajo como Pentester Jr. o Analista SOC.** Escribime por [LinkedIn](https://www.linkedin.com/in/niettovale).
 
-> **🔎 Estoy buscando trabajo** como **Pentester** o **Analista SOC**. Si tenés una propuesta, escribime por [LinkedIn](https://www.linkedin.com/in/niettovale).
+**🎯 En foco ahora**
 
-### 🎯 En foco ahora
-
-- 🔐 Preparando la certificación **eJPT** (meta 2026)
-- 🧪 Máquinas de **Hack The Box** y labs propios en Docker
-- 🐍 Herramientas de seguridad en **Python**
-
-```json
-{
-  "nombre": "Valentín Francisco Nieto",
-  "ubicacion": "Córdoba, Argentina",
-  "estudios": {
-    "carrera": "Lic. en Seguridad Informática",
-    "anio": "3er año"
-  },
-  "enfoque": "Pentesting web",
-  "practica": ["Hack The Box", "Labs propios"],
-  "objetivo": ["Pentester", "Analista SOC"],
-  "meta2026": "Certificación eJPT",
-  "experiencia": "2 años como Backend Developer (Laravel)",
-  "idiomas": ["Español (nativo)", "Inglés (en aprendizaje)"],
-  "hobbies": ["Anime", "Edición de video"],
-  "buscandoTrabajo": true
-}
-```
+- 🧪 Máquinas retiradas de **Hack The Box**, con informe de cada una en [hacker-odyssey](https://github.com/NiettoFrann/hacker-odyssey)
+- 🐳 Labs propios en Docker con [HELIX Corp](https://github.com/NiettoFrann/helix-corporation)
+- 🔐 Preparando la certificación **eJPT**
+- 🐍 Scripting de seguridad en **Bash** y **Python**
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛡️ Proyectos de ciberseguridad
 
-**Ciberseguridad y pentesting**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,git&perline=5" alt="Linux, Bash, Python, Docker, Git" />
-</p>
+### [hacker-odyssey](https://github.com/NiettoFrann/hacker-odyssey)
 
-<p>
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" alt="Hack The Box" />
-</p>
+Informes de pentest **en español** sobre máquinas de Hack The Box, con formato profesional: resumen ejecutivo, narrativa del ataque, hallazgos con **CVSS** y remediación.
 
-**Desarrollo y backend**
+`MkDocs` · `GitHub Actions` · `Bash`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,react,ts&perline=6" alt="PHP, Laravel, MySQL, PostgreSQL, React, TypeScript" />
-</p>
+</td>
+<td width="50%" valign="top">
+
+### [helix-corporation](https://github.com/NiettoFrann/helix-corporation)
+
+Laboratorios vulnerables en **Docker** dentro de una historia propia: infiltrá la red de HELIX Corp junto a *La Mano Negra*, zona por zona, y descubrí qué es Proyecto Cero.
+
+`Docker` · `TypeScript`
+
+</td>
+</tr>
+</table>
+
+## 💻 Desarrollo
+
+| Proyecto | Qué es | Stack |
+|:--|:--|:--|
+| [**Otakuteca**](https://otakuteca.ntech.studio) | Catálogo de anime y manga con filtros, ranking, ruleta de pendientes y panel de admin protegido | React · TypeScript · Supabase · TanStack Query |
+| [**NovaPay**](https://novapay.ntech.studio) | Fintech ficticia que uso como caso de estudio para los TPs de seguridad de la facultad | React · TypeScript · Vite · Tailwind |
+| [**N-Tech Studio**](https://ntech.studio) | Mi portfolio y marca personal | React · TypeScript · Vite · Tailwind · Framer Motion |
+
+---
+
+## 🛠️ Herramientas
+
+**Seguridad**
+
+<img src="https://skillicons.dev/icons?i=linux,bash,python,docker,git&perline=5" alt="Linux, Bash, Python, Docker, Git"/>
+
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
+
+**Desarrollo**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,react,ts&perline=6" alt="PHP, Laravel, MySQL, PostgreSQL, React, TypeScript"/>
 
 ---
 
 ## 📜 Certificaciones
 
 | Certificación | Emisor | Año |
-| :------------ | :----: | :-: |
+|:--|:--:|:--:|
 | [Curso completo de Hacking Ético y Ciberseguridad](https://www.udemy.com/certificate/UC-a7dd8908-812d-42a7-84f2-9aa2810d88cc/) | Udemy | 2026 |
 | [Introducción a Linux](https://hack4u.io/certificate/1802-3631-7630-8513) | Hack4u | 2026 |
 | [Personalización de Linux](https://hack4u.io/certificate/5654-3766-0565-3712) | Hack4u | 2026 |
 | [Curso completo de Linux: Manejo de comandos y Shell Script](https://www.udemy.com/certificate/UC-bf1742f7-b655-4973-babc-1ef39a310e1c/) | Udemy | 2025 |
-| [SQL TOTAL - Domina Bases de Datos](https://www.udemy.com/certificate/UC-2b8b1238-4b88-4935-8269-0a5b599b04d7/) | Udemy | 2025 |
 | [Cybersecurity Essentials](https://www.credly.com/badges/0a6775c6-f534-4b8a-8a01-59efc350d164) | Cisco | 2022 |
 | [Introduction to Cybersecurity](https://www.credly.com/badges/3cac283b-8b85-450e-8e1e-c3902a2d0dbb) | Cisco | 2022 |
 
-<p align="center">
-  <a href="https://www.ntech.studio/certificates">Ver todas mis certificaciones en el portfolio →</a>
-</p>
+[Ver todas en el portfolio →](https://www.ntech.studio/certificates)
 
 ---
 
-## 🚀 Proyectos destacados
+<div align="center">
 
-### Desarrollo web
+***"No te rindas aunque caigas o estés perdiendo, nunca te rindas, supera tus límites y te abrirás camino."***
+— Yami Sukehiro
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4><a href="https://ntech.studio">N-Tech Studio</a></h4>
-      <p>Mi portfolio personal.</p>
-      <p><sub>React · TypeScript · Vite · Tailwind CSS · Framer Motion</sub></p>
-      <a href="https://ntech.studio"><img src="https://img.shields.io/badge/Visitar_sitio-D61C4E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar sitio" /></a>
-    </td>
-    <td width="33%" valign="top">
-      <h4><a href="https://otakuteca.ntech.studio">Otakuteca</a></h4>
-      <p>Catálogo de anime y manga cargado <b>100 % a mano</b>: filtros, ranking, ruleta de pendientes y panel de admin protegido.</p>
-      <p><sub>React · TypeScript · Supabase · TanStack Query</sub></p>
-      <a href="https://otakuteca.ntech.studio"><img src="https://img.shields.io/badge/Visitar_sitio-D61C4E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar sitio" /></a>
-    </td>
-    <td width="33%" valign="top">
-      <h4><a href="https://novapay.ntech.studio">NovaPay</a></h4>
-      <p>Fintech <b>ficticia</b> que uso como caso de estudio para los trabajos prácticos de la facultad.</p>
-      <p><sub>React · TypeScript · Vite · Tailwind CSS</sub></p>
-      <a href="https://novapay.ntech.studio"><img src="https://img.shields.io/badge/Visitar_sitio-D61C4E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar sitio" /></a>
-    </td>
-  </tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D61C4E,100:740EE0&height=120&section=footer" width="100%"/>
 
----
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NiettoFrann&theme=radical" alt="GitHub stats" />
-  <img height="180" src="https://streak-stats.demolab.com?user=NiettoFrann&theme=radical&hide_border=true&locale=es" alt="GitHub streak" />
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <i>"Always a student, forever a builder."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D61C4E,100:740EE0&height=120&section=footer" alt="Footer" width="100%" />
-</p>
+</div>
